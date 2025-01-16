@@ -4,82 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="802e4ad4-011e-4750-abd3-a2075602279a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIN_20241022_10_47_01_Pro.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/QgcqW6WTP7Iyp_2Ter8NO/_buildManifest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/QgcqW6WTP7Iyp_2Ter8NO/_ssgManifest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/106-a71b11894cb18610.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/484.da50829333201e55.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/709.e04b3301a1eba8ef.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/framework-a4ddb9b21624b39b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/main-40e151073ba9b914.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/pages/_app-84c618c9b452fe04.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/pages/_error-83eac0d438baeb80.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/pages/about-7632edd89193a7ad.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/pages/contact-237014bd54ef4033.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/pages/index-41b65a9ecd792661.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/pages/memoire-4866a3a680fbfa0c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/pages/projects-5a3f653f0a3ed807.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/polyfills-42372ed130431b0a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/chunks/webpack-ea28696b697ed16b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_next/static/css/5fea3b4c34104535.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ContactForm.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Footer.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/NavBar.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ProjectCardProps.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customers/amy-burns.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customers/balazs-orban.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customers/delba-de-oliveira.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customers/evil-rabbit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customers/lee-robinson.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customers/michael-novotny.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hero-desktop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hero-mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkedin.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/marathonWeb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memoire.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/moi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/opengraph-image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contact.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/memoire.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/projects.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/postcss.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/WIN_20241022_10_47_01_Pro.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/customers/amy-burns.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/customers/balazs-orban.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/customers/delba-de-oliveira.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/customers/evil-rabbit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/customers/lee-robinson.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/customers/michael-novotny.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/github.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/hero-desktop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/hero-mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/linkedin.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/marathonWeb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/moi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/opengraph-image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/global.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
-    </list>
+    <list default="true" id="802e4ad4-011e-4750-abd3-a2075602279a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,6 +25,7 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2pqOtMzAa2SlCGVSBlOB2fM5AAg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -108,7 +34,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "gh-pages",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/damie/Documents/portfolio-nextjs",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -119,7 +45,7 @@
     "nodejs_package_manager_path": "npm",
     "npm.export.executor": "Run",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "ts.external.directory.path": "C:\\Users\\damie\\Documents\\portfolio-nextjs\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
