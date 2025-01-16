@@ -1,6 +1,5 @@
 import Navbar from '../components/NavBar';
 import Link from 'next/link';
-import '../styles/global.css';
 import ContactForm from "@/components/ContactForm";
 
 export default function Home() {
