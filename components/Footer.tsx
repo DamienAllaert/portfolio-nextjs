@@ -7,10 +7,10 @@ export default function Footer() {
                 <p className="text-sm text-white">&copy; 2024 Damien Allaert.</p>
                 <div className="flex space-x-4">
                     <a href="https://github.com/DamienAllaert" target="_blank" rel="noopener noreferrer">
-                        <img src="/images/github.png" alt="GitHub" className="h-6 w-6"/>
+                        <img src="/portfolio-nextjs/images/github.png" alt="GitHub" className="h-6 w-6"/>
                     </a>
                     <a href="https://www.linkedin.com/in/damienallaert" target="_blank" rel="noopener noreferrer">
-                        <img src="/images/linkedin.webp" alt="GitHub" className="h-6 w-6"/>
+                        <img src="/portfolio-nextjs/images/linkedin.webp" alt="GitHub" className="h-6 w-6"/>
                     </a>
                 </div>
             </div>

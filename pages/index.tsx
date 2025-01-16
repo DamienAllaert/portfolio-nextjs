@@ -25,7 +25,7 @@ export default function Home() {
                     </div>
                 </div>
                 <div className="mt-32 w-1/2">
-                    <img src="/images/marathonWeb.png" alt="Description de l'image" className="rounded"/>
+                    <img src="/portfolio-nextjs/images/marathonWeb.png" alt="Description de l'image" className="rounded"/>
                 </div>
                 <div className="flex justify-center space-x-1 mt-10 mb-10">
                     <div className="w-1/6">
