@@ -14,7 +14,7 @@ export default function About() {
                         développement logiciel, la création de sites web et les technologies émergentes.
                         Tout au long de mes études, j’ai acquis des compétences solides, notamment en programmation.
                     </p>
-                    <img src="/moi.jpg" alt="Description de l'image"
+                    <img src="/images/moi.jpg" alt="Description de l'image"
                          className="rounded-full h-32 w-32"/>
                 </div>
             </div>
