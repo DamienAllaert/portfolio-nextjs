@@ -15,3 +15,4 @@ export default function Projects() {
         </div>
     );
 }
+npm run dev
