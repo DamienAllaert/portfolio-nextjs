@@ -50,5 +50,3 @@ export default function Home() {
         </div>
     );
 }
-
-npm run deploy
