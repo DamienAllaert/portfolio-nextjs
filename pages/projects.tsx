@@ -1,6 +1,6 @@
 import Link from 'next/link';
-import Navbar from "@/components/NavBar";
-import ProjectCardProps from "@/components/ProjectCardProps";
+import Navbar from "../components/NavBar";
+import ProjectCardProps from "../components/ProjectCardProps";
 
 export default function Projects() {
     return (
@@ -16,4 +16,3 @@ export default function Projects() {
     );
 }
 
-npm run dev
