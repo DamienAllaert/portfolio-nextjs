@@ -37,9 +37,9 @@ export default function Navbar() {
                             Mémoire
                         </Link>
                     </div>
-                    <div className="text-right">
+                    {/* <div className="text-right">
                         {currentTime}
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </nav>
