@@ -2,6 +2,7 @@
 const nextConfig = {
     output: 'export',
     basePath: '/portfolio-nextjs',
+    assetPrefix: "/portfolio-nextjs/",
     reactStrictMode: true,
     // Add any other configuration options here
     pageExtensions: ['tsx', 'ts', 'jsx', 'js'],
