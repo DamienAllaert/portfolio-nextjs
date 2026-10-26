@@ -30,12 +30,12 @@ export default function Navbar() {
                         <Link href="/projects" className="hover:text-blue-400">
                             Projets
                         </Link>
-                        <Link href="/contact" className="hover:text-blue-400">
+                        {/* <Link href="/contact" className="hover:text-blue-400">
                             Contact
                         </Link>
                         <Link href="/memoire" className="hover:text-blue-400">
                             Mémoire
-                        </Link>
+                        </Link> */}
                     </div>
                     {/* <div className="text-right">
                         {currentTime}
